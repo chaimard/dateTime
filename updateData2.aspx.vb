@@ -1,4 +1,5 @@
 ﻿'Test
+'Test2
 Imports System.Data
 Imports System.Data.SqlClient
 Partial Class updateData2
